@@ -1,4 +1,3 @@
-    
     <div class="alert primary">A simple primary alert (Primary!)</div>
     <div class="alert success">A simple success alert (Success!)</div>
     <div class="alert warning">A simple warning alert (Warning!)</div>
