@@ -1,0 +1,30 @@
+ 
+ <div class="card">
+    <div>
+      <section>
+        <img
+          src="/asset/image/apdhillon.jpg"
+          alt="AP Dhillon"
+          class="none"
+        />
+      </section>
+      <section class="sec-2">
+        <h3>AP Dhillon</h3>
+        <p>by Prashant Peeyush</p>
+      </section>
+    </div>
+
+    <section class="sec-3">
+      AP Dhillon, is an Indian singer, rapper, songwriter and record
+      producer associated with Punjabi music.Five of his singles have peaked
+      on the Official Charts
+    </section>
+    <footer class="sec-4 none">
+      <h4>READ</h4>
+      <h4>BOOKMARK</h4>
+      <i class="far fa-heart"></i>
+      <i class="fas fa-share-alt"></i>
+      <i class="fas fa-ellipsis-v"></i>
+    </footer>
+  </div>
+  
