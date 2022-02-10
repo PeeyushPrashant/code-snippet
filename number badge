@@ -1,7 +1,7 @@
 
     <div class="badge">
-        <span class="number">5</span>
         <i class="fas fa-shopping-cart icon-lg"></i>
+        <span class="number">5</span>
     </div>
     <div class="badge">
         <i class="fab fa-telegram-plane icon-lg"></i>
