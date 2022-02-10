@@ -1,8 +1,5 @@
   
-  <button class="btn-float">
-       <i class="fas fa-plus icon-sm"></i>
-  </button>
-  <button class="btn-float">
-       <i class="fas fa-pen"></i>
-  </button>
+  <button class="btn-float"><i class="fas fa-plus icon-sm"></i></button>
+  
+  <button class="btn-float"><i class="fas fa-pen"></i></button>
   
