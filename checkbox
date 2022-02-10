@@ -1,0 +1,21 @@
+ 
+ <section class="flex-row">
+        <input
+          type="checkbox"
+          name="abc"
+          checked="checked"
+          class="choice"
+        /><span class="font-sm">Checked</span>
+      </section>
+      <section class="flex-row">
+        <input type="checkbox" name="abc" class="choice" /><span class="font-sm"
+          >Unchecked</span
+        >
+      </section>
+      <section class="flex-row">
+        <input type="checkbox" name="abc" class="disabled" /><span
+          class="font-sm"
+          >Disabled</span
+        >
+      </section>
+      
