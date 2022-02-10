@@ -1,0 +1,13 @@
+  
+  <div class="badge">
+        <img class="avatar" src="/asset/image/virat.jpg" alt="virat kohli" />
+        <span class="online"></span>
+      </div>
+  <div class="badge">
+        <img class="avatar" src="/asset/image/apd.jpg" alt="ap dhillon" />
+        <span class="offline"></span>
+  </div>
+  <div class="badge">
+        <img class="avatar" src="/asset/image/cr7.jpg" alt="cristiano" />
+        <span class="dnd"></span>
+  </div>
