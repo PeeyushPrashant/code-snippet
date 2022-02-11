@@ -1,0 +1,22 @@
+ 
+  <div class="stacked-list flex-row">
+      <i class="fas fa-pizza-slice icon-md"></i>
+      <p>
+        Slow and steady wins nothing. That's why we delivered your order in 15
+        mins.
+      </p>
+    </div>
+    <div class="stacked-list flex-row">
+      <i class="fas fa-tshirt icon-md"></i>
+      <p>
+        Your order for Roadster black t-shirt has been shipped. You will receive
+        it by Wednesday.
+      </p>
+    </div>
+    <div class="stacked-list flex-row">
+      <i class="fas fa-tshirt icon-md"></i>
+      <p>
+        Your order for Roadster black t-shirt has been shipped. You will receive
+        it by Wednesday.
+      </p>
+    </div>
