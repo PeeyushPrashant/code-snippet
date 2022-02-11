@@ -1,0 +1,20 @@
+ 
+  <div class="modal">
+      <section class="modal-heading flex-row">
+        <h4>Modal Title</h4>
+        <span class="icon-md">X</span>
+      </section>
+
+      <section class="modal-body flex-col">
+        <p>First Name</p>
+        <input type="text" class="modal-input" />
+        <p>Last Name</p>
+        <input type="text" class="modal-input" />
+      </section>
+
+      <footer class="modal-footer flex-row">
+        <button class="btn btn-primary">Close</button>
+        <button class="btn btn-secondary">Save</button>
+      </footer>
+ </div>
+ 
