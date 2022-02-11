@@ -1,0 +1,13 @@
+
+ <div class="list-container">
+    <h4 class="list-title">Categories</h4>
+    <hr class="horizontal-line" />
+    <ul class="list">
+      <li class="list-item">Home</li>
+      <li class="list-item">Laptops</li>
+      <li class="list-item">Smartphones</li>
+      <li class="list-item">Headphones</li>
+      <li class="list-item">Watches</li>
+    </ul>
+ </div>
+ 
