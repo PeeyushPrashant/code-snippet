@@ -1,0 +1,8 @@
+  
+    <section>
+      <small class="grey-color">small grey text</small>
+      <p class="grey-color">grey text</p>
+      <p class="grey-color"><strong>grey text</strong></p>
+      <h3 class="heading grey-color">grey text</h3>
+   </section>
+   
