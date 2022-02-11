@@ -1,0 +1,21 @@
+  
+  <div class="modal">
+      <header class="modal-heading flex-row">
+        <h4>Modal Title</h4>
+        <span class="icon-md">X</span>
+      </header>
+      <hr class="horizontal-line" />
+      <section class="modal-body">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Expedita natus consequuntur recusandae placeat, numquam
+          quibusdam nam eaque quis possimus corrupti.
+        </p>
+      </section>
+      <hr class="horizontal-line" />
+      <footer class="modal-footer flex-row">
+        <button class="btn btn-primary">Close</button>
+        <button class="btn btn-secondary">Save</button>
+      </footer>
+  </div>
+  
