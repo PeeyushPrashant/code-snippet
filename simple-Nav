@@ -1,0 +1,14 @@
+
+ <nav class="nav flex-row">
+   <div class="lib-title">
+       <a href="/index.html"
+        ><h2 class="left-nav">
+        one8<span class="highlight-text">Ui</span>
+         </h2></a
+          >
+    </div>
+      <div class="nav-link"><a>Home</a></div>
+       <div class="nav-link"><a>About</a></div>
+        <div class="nav-link"><a>Contact</a></div>
+   </nav>
+   
