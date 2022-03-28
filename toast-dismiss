@@ -1,0 +1,11 @@
+
+ <div class="toast-body flex-row">
+    Can't access the file you requested
+    <i class="fas fa-times"></i>
+  </div>
+  <div class="toast-body flex-row color-toast">
+    Please try again later
+    <i class="fas fa-times"></i>
+  </div>
+  
+  
