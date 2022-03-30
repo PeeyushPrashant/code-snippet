@@ -1,0 +1,6 @@
+
+ <input type="range" value="50" max="100" class="slider"
+  oninput="num.value = this.value"
+  />
+ <output id="num" class="slider-output">50</output>
+ 
