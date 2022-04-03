@@ -1,0 +1,9 @@
+
+ <div class="rating flex-row">
+  <i class="rating-star far fa-star icon-md"></i>
+  <i class="rating-star far fa-star icon-md"></i>
+  <i class="rating-star far fa-star icon-md"></i>
+  <i class="rating-star far fa-star icon-md"></i>
+  <i class="rating-star far fa-star icon-md"></i>
+</div>
+<p class="rating-result"></p>
